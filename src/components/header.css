@@ -1,0 +1,15 @@
+header nav ul .navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.linknav{
+    margin: 0px 20px;
+    text-decoration: none;
+    list-style: none;
+    font-size: 20px;
+    color: black;
+}
+header{
+    background-color: bisque;
+    padding: 20px 30px;
+}

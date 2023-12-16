@@ -1,0 +1,20 @@
+.main-box{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 80vh;
+    overflow: hidden;
+    justify-content: center;
+    text-align: center;
+}
+.joke-button{
+    background-color: rgb(238, 79, 79);
+    color: #ffffff;
+    padding: 15px 10px;
+    font-size: 16px;
+}
+.joke-contant{
+    background-color: rgb(172, 172, 231);
+    color: black;
+    padding: 30px 10px;
+}
